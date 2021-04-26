@@ -2,9 +2,9 @@
   "name": "temperature.js",
   "version": "1.0.0",
   "description": "A Node.Js Package That Helps You in Converting Temperature",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test.js"
   },
   "repository": {
     "type": "git",
