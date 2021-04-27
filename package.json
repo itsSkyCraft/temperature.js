@@ -1,5 +1,5 @@
 {
-  "name": "temperature.js",
+  "name": "node-temperature.js",
   "version": "1.0.0",
   "description": "A Node.Js Package That Helps You in Converting Temperature",
   "main": "./src/index.js",
@@ -11,7 +11,13 @@
     "url": "git+https://github.com/itsSkyCraft/temperature.js.git"
   },
   "keywords": [
-    "temperature"
+    "temperature",
+    "celsius",
+    "reamur",
+    "fahrenheit",
+    "kelvin",
+    "math",
+    "formula"
   ],
   "author": "",
   "license": "MIT",
